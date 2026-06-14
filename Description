@@ -1,0 +1,15 @@
+# List of commands run on the Kali VM:
+
+# sudo apt update
+# sudo apt upgrade 
+# sudo apt install openssh-server vsftpd -y
+# sudo systemctl enable ssh
+# sudo systemctl start ssh
+# sudo systemctl enable vsftpd
+# sudo systemctl start vsftpd
+# sudo systemctl status ssh
+# sudo systemctl status vsftpd
+
+# Unfortunately, due to the amount of struggle my computer put up during me setting up the 
+# connection between the VM and my actual PC to test the OpenSSH server, I cannot remeber all of the commands I ran:
+# there's a good few dozen of them.
